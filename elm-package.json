@@ -1,5 +1,6 @@
 {
     "version": "0.1.0",
+    "repository": "https://github.com/ryanpbrewster/locked-doors.git",
     "summary": "Exploring an office with locked doors and keys",
     "license": "BSD3",
     "source-directories": [

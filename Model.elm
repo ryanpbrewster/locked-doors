@@ -4,7 +4,7 @@ type alias Model = { playerPosition: Position
                    }
 
 init : Model
-init = { playerPosition =  { row = 0, col = 0 }
+init = { playerPosition =  { row = 0, col = 500 }
        }
 
 type alias Position = { row: Int, col: Int }
